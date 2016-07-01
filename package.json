@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Greg Wilson <gregwilson@outlook.com> (http://gregwilson.me)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregWilson/esflux.git"
+  },
   "license": "ISC",
   "dependencies": {
     "eventemitter3": "^1.1.1"
